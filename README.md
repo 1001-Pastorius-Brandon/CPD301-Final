@@ -1,0 +1,1 @@
+# CPD301-Final I did not get as much work on it done as I hoped that I would, the due date snuck up on me and by the time that it was due I only had the code done and had not finished direct implementation on Arduino kit. Arduino videos and last packaging for implementation is the parts I do not have. 
